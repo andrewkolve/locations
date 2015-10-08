@@ -1,1 +1,1 @@
-a(["in stealth mode in Vegas", "Not in Vegas"]);
+a(["test message", "in stealth mode in Vegas", "Not in Vegas"]);
